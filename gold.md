@@ -1,9 +1,9 @@
 ### semi-passive (no effort or low effort)
 - Dailies (65AA, ~10 gold limited )
-- full home instance loot (5g + charged quartz crystal = 5g)
+- full home instance loot [^1] (5g + charged quartz crystal = 5g)
 - guild hall loot
-- craft ascended materials once per day (~2g)
-- alt characters on spots to open chests, or quick hops to get there, this includes: 
+- craft ascended materials once per day [^2] (~2g)
+- alt parking on chests [^3], or quick hops to get there, this includes: 
 
 - Jade Runestones (Seitung Province = 5g)
 ![](img/Pasted%20image%2020230901031112.png)
@@ -14,7 +14,7 @@
 
 ### medium effort (easy but takes time)
 - both meta events in SoTO maps. use hero's choice from both Metas always choose first option and then craft skins (edited). Over 25g from 2nd map and 15g from 1st map
-- Fishing (Legendary Fish converted to Ambergris (required for Gen 3 legendaries). ~30g per hour). Max out fishing power, masteries. 
+- Fishing [^4] (Legendary Fish converted to Ambergris (required for Gen 3 legendaries). ~30g per hour). Max out fishing power, masteries. 
 	- Go to Crystal Oasis during daytime
 	- use scorpions as bait
 
@@ -28,3 +28,8 @@
 - Eternal Ice. Requires 3 Mastery Lines. Convert it into LW4 Currencies. Consume those for Volatile Magic. 
 - Volatile Magic = buy Trophy Shipments
 - Trade Contracts (if not needed) can buy Trophy Contracts
+
+[^1]: https://fast.farming-community.eu/instances/home-instance
+[^2]: https://fast.farming-community.eu/item-conversions/overview
+[^3]: https://fast.farming-community.eu/open-world/alt-parking
+[^4]: https://fast.farming-community.eu/open-world/fishing
