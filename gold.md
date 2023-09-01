@@ -1,6 +1,6 @@
 ### semi-passive (no effort or low effort)
 - Dailies (65AA, ~10 gold, limited; ~2g after all limited items have been bought)
-- full home instance loot [^1] (5g + charged quartz crystal = 5g)
+- full home instance loot [^1] (materials 5g + charged quartz crystal ~5g)
 - guild hall loot
 - craft ascended materials once per day [^2] (~2g)
 - alt parking on chests [^3], or quick hops to get there, this includes: 
