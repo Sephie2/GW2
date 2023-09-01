@@ -6,10 +6,10 @@
 - alt characters on spots to open chests, or quick hops to get there, this includes: 
 
 - Jade Runestones (Seitung Province = 5g)
-![](800%20-%20Ressources/804%20-%20Games/Guild%20Wars%202/img/Pasted%20image%2020230901031112.png)
+![](img/Pasted%20image%2020230901031112.png)
 - Jade Runestones (Echovald Forest = 4g) (see wiki) 
 - Eternal Ice from Icebrood Saga - Bjora Marches
-![](800%20-%20Ressources/804%20-%20Games/Guild%20Wars%202/img/Pasted%20image%2020230901031707.png)
+![](img/Pasted%20image%2020230901031707.png)
 - PoF Tomb and the top of the round jumping puzzle 
 
 ### medium effort (easy but takes time)
