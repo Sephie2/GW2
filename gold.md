@@ -20,7 +20,7 @@
 
 ### high effort (takes time, pre-requisites but highest rewards)
 - Strikes, daily Fractals, Raids
-- Farmtrains (Map Metas) [^5]
+- Farmtrains [^5]
 	- Dragonfall Meta (20g - 30g per hour; follow commander). Can buy account upgrades to Karma and exp while inside Dragonfall. Gathers Volatile Magic. 
 	- Icebrood Saga - Drizzlewood Coast (15g - 25g per hour) (capture area by participating in as many events as possible, then join a commander to kill a boss; then kill "cash keepers" until all 10, or time runs out; proceed to north side of the map; follow commander; Citadel with boss fight and lots of chests). Drizzlewood has a reward track, similar to WvW. Speak with camp npc to change legion according to fast.farming-community.
 
